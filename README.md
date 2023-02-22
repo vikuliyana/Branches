@@ -6,7 +6,7 @@ Tasks:
 - Postman  
 - Jmeter  
 - CheckLists  
-- Bag Reports  
+- Bug Reports  
 - SQL  
 - Charles  
 - Mobile testing  
