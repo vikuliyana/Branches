@@ -1,14 +1,21 @@
 # Branches
 
 Tasks:  
-1) На локальном репозитории сделать ветки для:
+1) Make branches on the local repository:
 - Postman  
+`git branch Postman`    
 - Jmeter  
+`git branch Jmeter`  
 - CheckLists  
+`git branch Checklists`
 - Bug Reports  
+`git branch Bug Reports`  
 - SQL  
+`git branch SQL`  
 - Charles  
+`git branch Charles`  
 - Mobile testing  
+`git branch Mobile testing`
 
 2) Запушить все ветки на внешний репозиторий
 3) В ветке Bug Reports сделать текстовый документ со структурой баг репорта
